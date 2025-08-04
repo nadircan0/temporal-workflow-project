@@ -12,9 +12,7 @@ Temporal_try/
 │   ├── Activities/        # Business logic activities
 │   └── Program.cs         # API configuration
 ├── WorkerApp/             # Order processing worker
-├── InvoiceWorkerApp/      # Invoice processing worker
-├── StarterApp/            # Workflow trigger application
-└── Temporal_trying/       # Shared library (legacy)
+└── InvoiceWorkerApp/      # Invoice processing worker
 ```
 
 ## 🚀 Features
@@ -190,20 +188,3 @@ GenerateInvoice → SendInvoiceEmail
 - **API Port**: 5000
 - **Swagger UI**: http://localhost:5000
 - **Temporal Web UI**: http://localhost:8233
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🙏 Acknowledgments
-
-- Temporal team for the excellent workflow orchestration platform
-- .NET community for the robust development ecosystem 
