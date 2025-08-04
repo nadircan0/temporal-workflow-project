@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cansnow/Desktop/Staj/Temporal_try/WorkerApp/WorkerApp.csproj": {}
+  },
+  "projects": {
+    "/Users/cansnow/Desktop/Staj/Temporal_try/TemporalApi/TemporalApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cansnow/Desktop/Staj/Temporal_try/TemporalApi/TemporalApi.csproj",
+        "projectName": "TemporalApi",
+        "projectPath": "/Users/cansnow/Desktop/Staj/Temporal_try/TemporalApi/TemporalApi.csproj",
+        "packagesPath": "/Users/cansnow/.nuget/packages/",
+        "outputPath": "/Users/cansnow/Desktop/Staj/Temporal_try/TemporalApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cansnow/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "Temporalio": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cansnow/Desktop/Staj/Temporal_try/WorkerApp/WorkerApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cansnow/Desktop/Staj/Temporal_try/WorkerApp/WorkerApp.csproj",
+        "projectName": "WorkerApp",
+        "projectPath": "/Users/cansnow/Desktop/Staj/Temporal_try/WorkerApp/WorkerApp.csproj",
+        "packagesPath": "/Users/cansnow/.nuget/packages/",
+        "outputPath": "/Users/cansnow/Desktop/Staj/Temporal_try/WorkerApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cansnow/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/cansnow/Desktop/Staj/Temporal_try/TemporalApi/TemporalApi.csproj": {
+                "projectPath": "/Users/cansnow/Desktop/Staj/Temporal_try/TemporalApi/TemporalApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Temporalio": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

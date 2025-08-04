@@ -1,0 +1,12 @@
+/Users/cansnow/Desktop/Staj/Temporal_try/Temporal_trying/bin/Debug/net8.0/Temporal_trying.deps.json
+/Users/cansnow/Desktop/Staj/Temporal_try/Temporal_trying/bin/Debug/net8.0/Temporal_trying.dll
+/Users/cansnow/Desktop/Staj/Temporal_try/Temporal_trying/bin/Debug/net8.0/Temporal_trying.pdb
+/Users/cansnow/Desktop/Staj/Temporal_try/Temporal_trying/obj/Debug/net8.0/Temporal_trying.csproj.AssemblyReference.cache
+/Users/cansnow/Desktop/Staj/Temporal_try/Temporal_trying/obj/Debug/net8.0/Temporal_trying.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cansnow/Desktop/Staj/Temporal_try/Temporal_trying/obj/Debug/net8.0/Temporal_trying.AssemblyInfoInputs.cache
+/Users/cansnow/Desktop/Staj/Temporal_try/Temporal_trying/obj/Debug/net8.0/Temporal_trying.AssemblyInfo.cs
+/Users/cansnow/Desktop/Staj/Temporal_try/Temporal_trying/obj/Debug/net8.0/Temporal_trying.csproj.CoreCompileInputs.cache
+/Users/cansnow/Desktop/Staj/Temporal_try/Temporal_trying/obj/Debug/net8.0/Temporal_trying.dll
+/Users/cansnow/Desktop/Staj/Temporal_try/Temporal_trying/obj/Debug/net8.0/refint/Temporal_trying.dll
+/Users/cansnow/Desktop/Staj/Temporal_try/Temporal_trying/obj/Debug/net8.0/Temporal_trying.pdb
+/Users/cansnow/Desktop/Staj/Temporal_try/Temporal_trying/obj/Debug/net8.0/ref/Temporal_trying.dll

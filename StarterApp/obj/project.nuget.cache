@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3rTebX0dJto=",
+  "success": true,
+  "projectFilePath": "/Users/cansnow/Desktop/Staj/Temporal_try/StarterApp/StarterApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/cansnow/.nuget/packages/google.protobuf/3.26.1/google.protobuf.3.26.1.nupkg.sha512",
+    "/Users/cansnow/.nuget/packages/microsoft.extensions.logging.abstractions/2.2.0/microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "/Users/cansnow/.nuget/packages/temporalio/1.7.0/temporalio.1.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
